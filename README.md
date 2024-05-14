@@ -1,6 +1,6 @@
 - 👋 olá, sou a Isabel 
-- 👀 eu tenho interesse em tecnologia 
-- 🌱 Atualmente estou aprendndo Phyton
+- 👀 Amo o mundo da tecnologia 
+- 🌱 Estou aprendndo Phyton
 - 💞️
 - 📫 Meu contato https://www.linkedin.com/in/isabelcristinarocha
 - 😄 
