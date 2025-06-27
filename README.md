@@ -4,7 +4,7 @@
 - 💞️
 - 📫 Meu contato https://www.linkedin.com/in/isabelcristinarocha
 - 😄 
-- ⚡ Atualmente trabalho com Segurança do trabalho, mas já atuei com plataformas de telecom e procuro sempre estar antenada com as atualizadades tecnológicas.
+- ⚡ Atualmente trabalho com Segurança do trabalho, mas já atuei com plataformas de telecom e procuro sempre estar antenada com as atualidades tecnológicas.
 
 <!---
 belzis/belzis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
